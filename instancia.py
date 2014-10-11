@@ -1,0 +1,15 @@
+from clases import Auto
+
+mi_auto = Auto(7)
+mi_auto.arrancar()
+mi_auto.conducir()
+mi_auto.apagar()
+mi_auto.conducir()
+mi_auto.verificargas()
+mi_auto.arrancar()
+mi_auto.conducir()
+mi_auto.conducir()
+mi_auto.conducir()
+mi_auto.conducir()
+mi_auto.conducir()
+mi_auto.verificargas()
