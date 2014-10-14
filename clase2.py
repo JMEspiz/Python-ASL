@@ -22,5 +22,6 @@ class Auto(object):
 		if gasolina > 0:
 			print("Estas en movimiento")
 			gasolina = gasolina -1
+			print("Gasolina restante: %d" % gasolina)
 		else:
 			print("El carro no se mueve")
